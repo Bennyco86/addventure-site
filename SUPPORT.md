@@ -39,8 +39,12 @@ themselves and then applied it to a fresh problem unprompted, so getting answers
 right by luck does not register.
 
 **Can I change the difficulty?**
-Yes. The practice screen has Easier, Standard and Harder settings. These change
-the size of the numbers, never the technique being taught.
+Yes. The practice screen has Easier, Standard and Harder settings.
+
+Easier and Standard change only the size of the numbers, never the technique
+being taught. Harder does both: the numbers grow, and two extra topics appear —
+volume at the Tile Garden, and percentages at the Sharing Tree. Neither shows up
+at the other settings, so you decide when your child meets them.
 
 **How do the rewards work?**
 Rewards are optional and entirely yours to set. In the grown-up screen you write

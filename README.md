@@ -14,6 +14,8 @@ road.
 
 Covers addition and subtraction strategies, times-table tricks, division with
 remainders, fractions, decimals, area and perimeter, and the divisibility rules.
+A harder setting adds volume and percentages on top, when a grown-up decides
+they are ready.
 
 - No advertising
 - No accounts, no sign-up
