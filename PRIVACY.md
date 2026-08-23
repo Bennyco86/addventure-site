@@ -79,5 +79,5 @@ change.
 
 ## Contact
 
-Questions about this policy: **quality3ds@gmail.com**
+Questions about this policy: **nzbennycohen@gmail.com**
 
