@@ -6,7 +6,7 @@ double — rather than drilling for speed.
 
 ## Getting help
 
-Email **quality3ds@gmail.com**. Please include:
+Email **nzbennycohen@gmail.com**. Please include:
 
 - which device and operating system you are using
 - what you were doing when the problem happened
@@ -63,5 +63,5 @@ explanations are checked automatically against real arithmetic, but if something
 reads confusingly or a strategy is explained in a way that does not match how it
 is taught at your school, I want to know.
 
-Email **quality3ds@gmail.com** with the problem shown on screen and what looked
+Email **nzbennycohen@gmail.com** with the problem shown on screen and what looked
 wrong.
