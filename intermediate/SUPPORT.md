@@ -1,6 +1,6 @@
-# AddVenture: Years 7-8 — Support
+# AddVenture Intermediate — Support
 
-**AddVenture: Years 7-8** is a maths strategy game for Years 7–8 (ages
+**AddVenture Intermediate** is a maths strategy game for Years 7–8 (ages
 11–13). It teaches the *tactic* that makes each problem easy — HCF by primes,
 cancelling to zero, renaming with the LCM, ten-five-one percentages, undoing an
 equation — rather than drilling for speed. It is the sequel to AddVenture
@@ -24,7 +24,7 @@ No. There is no sign-up, no login, and no password. Progress is saved on the
 device itself.
 
 **Does it need an internet connection?**
-No. Once installed, AddVenture: Years 7-8 works entirely offline.
+No. Once installed, AddVenture Intermediate works entirely offline.
 
 **Is my child's data safe?**
 The app collects nothing and sends nothing. See the
@@ -43,7 +43,7 @@ fresh problem unprompted, so getting answers right by luck does not register.
 Saved handwritten working can be reviewed there too.
 
 **Do I need the first AddVenture?**
-No. AddVenture: Years 7-8 starts from Year 7 and teaches everything it uses.
+No. AddVenture Intermediate starts from Year 7 and teaches everything it uses.
 The two apps share a style, not progress.
 
 **Which curriculum does it follow?**
